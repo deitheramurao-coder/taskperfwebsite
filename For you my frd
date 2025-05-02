@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Zoobi</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      overflow-x: hidden;
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px;
+      font-size: 2em;
+      background: rgba(255, 255, 255, 0.05);
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+    }
+    h2 {
+      border-bottom: 1px solid white;
+      padding-bottom: 10px;
+    }
+    .note {
+      margin: 10px 0;
+      background: rgba(255, 255, 255, 0.1);
+      padding: 10px;
+      border-left: 4px solid #ffcc70;
+      border-radius: 5px;
+    }
+    .secret {
+      margin-top: 20px;
+      text-align: center;
+      font-style: italic;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      font-size: 0.9em;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hey Zoobi...</h1>
+    <p>This page was created to remind you how special you are, from a friend who always remembers.</p>
+  </header>  <section>
+    <h2>The Sun & The Earth</h2>
+    <p>No matter how much far the sun,<br>
+    Earth is always lighting by him.<br>
+    Once cloudy monster covered the sky,<br>
+    To hide you from me...<br>
+    Huh! He can't — still there is light to see.<br>
+    Yeah, we have a bond, you can't see — like gravity.<br>
+    I'm always on her side no matter how far I am...<br>
+    If she is over in ocean of sadness,<br>
+    I make tide in her to say she is not alone.</p>
+  </section>  <section>
+    <h2>Moments & Milestones</h2>
+    <div class="note">First prank... first silly laugh... first serious talk.</div>
+    <div class="note">All those little things that built this unshakable bond.</div>
+    <div class="note">From strangers to unforgettable souls crossing paths.</div>
+  </section>  <section>
+    <h2>Secret Box</h2>
+    <div class="secret">Click here soon for something hidden... (Coming soon!)</div>
+  </section>  <section>
+    <h2>Final Note</h2>
+    <p>Even the stars know your name, Zoobi.<br>
+    Never forget — someone far away always believes in you.</p>
+  </section>  <footer>
+    Created with care — by your unknown coder-friend.
+  </footer>
+</body>
+</html>
