@@ -3,6 +3,6 @@
   publish = "./dist/"
   command = "npm run build"
 
-[template.environment]
+[build.environment]
   NAME = "shiela"
   PIC = "https://drive.google.com/file/d/1RxMZljGBNYLl0IoJIRfjEA75JXlq3g6F/view?usp=drive_link"
