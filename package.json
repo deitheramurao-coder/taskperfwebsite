@@ -16,6 +16,9 @@
     "watch": "npm-run-all init-index-local watch:parcel",
     "build": "npm-run-all init-index-remote build:parcel"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AnshumanMahato/Happy-Birthday-Card.git"
